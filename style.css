@@ -1,0 +1,11 @@
+.navbar{background-color:black;
+    display:flex;
+    padding:4px;
+    gap:10px;
+    justify-content:center;}
+.link{border:solid red 2px;color:red;padding:10px;}
+.link:hover{border:solid red 2px;color:red;padding:10px;
+       background-color:white;
+    cursor:pointer;}
+.link:active{background-color: aqua;}
+.link:{background-color: brown;}
