@@ -9,3 +9,11 @@
     cursor:pointer;}
 .link:active{background-color: aqua;}
 .link:{background-color: brown;}
+
+.about{background-color:green;
+    text-align:center;padding:60px;padding-top:0;font-size:50px;}
+
+    .imagebox{display:flex;justify-content:center;
+        background-color:green;}
+    img{border:0;padding:0;width:30vw;}
+   
